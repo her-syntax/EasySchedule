@@ -17,13 +17,3 @@ Timetable Studio is a powerful, client-side tool built to help students take raw
 4. **Style:** Visit the "Theme and Customization" panel to change fonts, colors, and borders.
 5. **Edit:** Click on any session block to adjust its individual appearance or remove it from the view.
 6. **Export:** Click "Download PDF" to save your result.
-
-## Tech Stack
-- **HTML5/CSS3:** Grid-based layout for the timetable.
-- **JavaScript (Vanilla):** Logic for state management, file parsing, and interaction.
-- **Bootstrap 5:** UI framework for the sidebar and controls.
-- **PDF Generation:** Powered by `jsPDF` and `html2canvas`.
-- **Parsing:** `pdf.js` for PDF reading and `mammoth.js` for DOCX conversion.
-
-## Credits
-Designed by **Amukelani P.**
